@@ -304,7 +304,7 @@ def consultar_curp():
 def menu():
     while True:
         print("\n" + "=" * 40)
-        print(" SISTEMA DE EMPLEADOS - EMPRESA ACME")
+        print(" SISTEMA DE EMPLEADOS - EMPRESA ACME ")
         print("=" * 40)
         print("1. Alta de empleado")
         print("2. Baja de empleado")
